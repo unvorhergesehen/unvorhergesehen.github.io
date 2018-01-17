@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<div class="post">
+    <div class="post-info">
+        <span>
+            Geschrieben von
+        </span>
+        {% if page.author %}
+        {{ page.author }}
+        {% else %}
+            {{ site.author.name }}
+        {% endif %}
+
+        {% if page.date %}
+        <br>
+        <span>
+            am
+        </span>
+        <time datetime="{{ page.date }}">
+            {{ page.date | date: "%d." }}&nbsp;
+            {% assign m = page.date | date: "%B" %}
+            {{ site.data.date.month[m] }}&nbsp;
+            {{ page.date | date: "%Y" }}
+        </time>
+        {% endif %}
+        </br>
+    </div>
+    <h1 class="post-title">
+        {{ page.title }}
+    </h1>
+    <div class="post-line">
+    </div>
+    {{ content }}
+</div>
+<div class="pagination">
+    {% if page.next.url %}
+    <a class="left arrow" href="{{ page.next.url | prepend: site.baseurl }}">
+        ←
+    </a>
+    {% endif %}
+    {% if page.previous.url %}
+    <a class="right arrow" href="{{ page.previous.url | prepend: site.baseurl }}">
+        →
+    </a>
+    {% endif %}
+    <a class="top" href="#">
+        Top
+    </a>
+</div>

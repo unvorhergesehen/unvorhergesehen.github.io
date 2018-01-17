@@ -1,2 +1,5 @@
-*.sublime-*
-notes.txt
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
