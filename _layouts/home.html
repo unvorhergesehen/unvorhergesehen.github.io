@@ -1,31 +1,40 @@
 ---
 layout: default
 ---
-
 <div class="catalogue">
-  {% for post in paginator.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
-      <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h1 class="catalogue-title">{{ post.title }}</h1>
-        <div class="catalogue-line"></div>
-
-        <p>
-          {{ post.content | truncatewords: 30 | strip_html }}
-        </p>
-
-      </div>
+    {% for post in paginator.posts %}
+    <a class="catalogue-item" href="{{ post.url | prepend: site.baseurl }}">
+        <div>
+            <time class="catalogue-time" datetime="{{ post.date }}">
+                {{ post.date | date: "%d." }} 
+                {% assign m = post.date | date: "%B" %}
+                {{ site.data.german.month[m] }} 
+                {{ post.date | date: "%Y" }}
+            </time>
+            <h1 class="catalogue-title">
+                {{ post.title }}
+            </h1>
+            <div class="catalogue-line">
+            </div>
+            <p>
+                {{ post.content | truncatewords: 30 | strip_html }}
+            </p>
+        </div>
     </a>
-  {% endfor %}
+    {% endfor %}
 </div>
-
 <div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
-
-  <span>{{ paginator.page }}</span>
+    {% if paginator.previous_page %}
+    <a class="left arrow" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
+        ←
+    </a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a class="right arrow" href="{{ paginator.next_page_path | prepend: site.baseurl }}">
+        →
+    </a>
+    {% endif %}
+    <span>
+        {{ paginator.page }}
+    </span>
 </div>

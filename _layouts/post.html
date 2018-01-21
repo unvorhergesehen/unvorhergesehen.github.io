@@ -14,16 +14,16 @@ layout: default
 
         {% if page.date %}
         <br>
-        <span>
-            am
-        </span>
-        <time datetime="{{ page.date }}">
-            {{ page.date | date: "%d." }}&nbsp;
-            {% assign m = page.date | date: "%B" %}
-            {{ site.data.date.month[m] }}&nbsp;
-            {{ page.date | date: "%Y" }}
-        </time>
-        {% endif %}
+            <span>
+                am
+            </span>
+            <time datetime="{{ page.date }}">
+                {{ page.date | date: "%d." }} 
+                {% assign m = page.date | date: "%B" %}
+                {{ site.data.german.month[m] }} 
+                {{ page.date | date: "%Y" }}
+            </time>
+            {% endif %}
         </br>
     </div>
     <h1 class="post-title">
