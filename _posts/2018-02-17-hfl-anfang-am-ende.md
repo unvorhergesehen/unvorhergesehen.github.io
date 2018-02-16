@@ -3,7 +3,7 @@ layout: post
 title: “Handbuch für Lichtarbeiter - am Ende anfangen”
 author: "Franz-Ferdinand"
 ---
-**Kryon** gibt im _»Handbuch für Lichtarbeiter«_, _Lektion 5_ eine Zusammenstellung sechs hilfreicher Hinweise oder Regeln (er nennt sie »Postulate«):
+**Kryon** gibt im _»Handbuch für Lichtarbeiter«_, _Lektion 5_ sechs hilfreicher Hinweise oder Regeln (er nennt sie »Postulate«):
 
 * Stelle keine Vermutungen an über irgendetwas
 * Betrachte dich selbst als Teil des Chaos
