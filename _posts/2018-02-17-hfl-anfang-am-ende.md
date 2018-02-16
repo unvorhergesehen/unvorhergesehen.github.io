@@ -5,7 +5,14 @@ author: "Franz-Ferdinand"
 ---
 **Kryon** gibt im _»Handbuch für Lichtarbeiter«_, _Lektion 5_ sechs Hinweise oder Regeln (er nennt sie »Postulate«):
 
-Stelle keine Vermutungen an über irgendetwas - Betrachte dich selbst als Teil des Chaos - Habe keine Angst davor, in das System einzutreten - Vertraue und Folge deinen ersten -  Es muss Tätigkeit von deiner Seite geben - Erwarte Synchronizität
+{% highlight markdown %}
+Stelle keine Vermutungen an über irgendetwas
+Betrachte dich selbst als Teil des Chaos
+Habe keine Angst davor, in das System einzutreten
+Vertraue und Folge deinen ersten
+Es muss Tätigkeit von deiner Seite geben
+Erwarte Synchronizität
+{% endhighlight %}
 
 Diese Postulate sollen uns helfen, mit dem System in Kontakt zu kommen, es zu nutzen, mit ihm zu arbeiten (= es zu _manifestieren_). Wir müssen das System dafür nicht verstehen. Denn es ist zwar - interdimensionale gesehen - voller Sinn und Logik und überhaupt nicht geheimnisvoll und ist zugleich in 3-D nicht zu verstehen - darum wirkt Gott für uns eben meist »auf geheimnisvolle Weise«.
 
