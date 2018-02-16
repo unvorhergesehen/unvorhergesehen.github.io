@@ -16,6 +16,7 @@ Diese Postulate sollen uns helfen, mit dem System in Kontakt zu kommen, es zu nu
 
 Um mit der praktischen Seite einzusteigen, beginne ich in meinem ersten Post mit diesen sechs Hinweisen aus dem letzen Teil des _Handbuches_.
 <br>
+<br>
 
 ## »Stelle keine Vermutungen an über irgendetwas«
 Dies ist die wichtigste Regel.
