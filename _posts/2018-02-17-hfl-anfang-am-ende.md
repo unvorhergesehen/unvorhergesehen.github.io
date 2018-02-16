@@ -14,7 +14,8 @@ author: "Franz-Ferdinand"
 
 Diese Postulate sollen uns helfen, mit dem System in Kontakt zu kommen, es zu nutzen, mit ihm zu arbeiten (= es zu _manifestieren_). Wir müssen das System dafür nicht verstehen. Denn es ist zwar - interdimensionale gesehen - voller Sinn und Logik und überhaupt nicht geheimnisvoll und ist zugleich in 3-D nicht zu verstehen - darum wirkt Gott für uns eben meist »auf geheimnisvolle Weise«.
 
-Ich möchte gerne mit einer praktischen Sache einsteigen und beginne darum mit dem letzen Teil des _Handbuches_.
+Um mit der praktischen Seite einzusteigen, beginne ich in meinem ersten Post mit dem letzen Teil des _Handbuches_.
+
 
 ## »Stelle keine Vermutungen an über irgendetwas«
 Dies ist die wichtigste Regel.
