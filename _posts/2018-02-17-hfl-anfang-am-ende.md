@@ -3,7 +3,10 @@ layout: post
 title: “Handbuch für Lichtarbeiter - am Ende anfangen”
 author: "Franz-Ferdinand"
 ---
-**Kryon** gibt im _»Handbuch für Lichtarbeiter«_, _Lektion 5_ sechs Hinweise oder Regeln (er nennt sie »Postulate«):
+
+Im ersten Post zum _»Handbuch für Lichtarbeiter«_ möchte ich mit dem, dem, was ich anwenden und in - zumindest innere - Handlung umsetzen kann, beginnen.
+
+**Kryon** gibt uns dafür in _Lektion 5_, dem praktischen Teil des Handbuches sechs Hinweise oder Regeln (er nennt sie »Postulate«):
 
 {% highlight markdown %}
 Stelle keine Vermutungen an über irgendetwas
@@ -15,8 +18,6 @@ Erwarte Synchronizität
 {% endhighlight %}
 
 Diese Postulate sollen uns helfen, mit dem System in Kontakt zu kommen, es zu nutzen, mit ihm zu arbeiten (= es zu _manifestieren_). Wir müssen das System dafür nicht verstehen. Denn es ist zwar - interdimensionale gesehen - voller Sinn und Logik und überhaupt nicht geheimnisvoll und ist zugleich in 3-D nicht zu verstehen - darum wirkt Gott für uns eben meist »auf geheimnisvolle Weise«.
-
-Um mit der praktischen Seite einzusteigen, beginne ich in meinem ersten Post mit diesen sechs Hinweisen aus dem letzen Teil des _Handbuches_.
 <br>
 <br>
 
