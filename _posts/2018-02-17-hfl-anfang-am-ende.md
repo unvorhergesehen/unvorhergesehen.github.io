@@ -12,7 +12,7 @@ Im ersten Post zum _»Handbuch für Lichtarbeiter«_ möchte ich mit dem, was ic
 Stelle keine Vermutungen an über irgendetwas
 Betrachte dich selbst als Teil des Chaos
 Habe keine Angst davor, in das System einzutreten
-Vertraue und Folge deinen ersten
+Vertraue und Folge deinen ersten Instinkten
 Es muss Tätigkeit von deiner Seite geben
 Erwarte Synchronizität
 {% endhighlight %}
