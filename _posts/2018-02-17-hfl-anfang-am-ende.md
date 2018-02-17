@@ -8,12 +8,12 @@ Im ersten Post zum _»Handbuch für Lichtarbeiter«_ beginne ich mit dem, was an
 
 **Kryon** gibt uns dafür in _Lektion 5_, dem praktischen Teil des Handbuches, sechs Hinweise oder Regeln oder _Postulate_:
 
-* **_Stelle keine Vermutungen an über irgendetwas_**
-* **_Betrachte dich selbst als Teil des Chaos_**
-* **_Habe keine Angst davor, in das System einzutreten_**
-* **_Vertraue und Folge deinen ersten Instinkten_**
-* **_Es muss Tätigkeit von deiner Seite geben_**
-* **_Erwarte Synchronizität_**
+* _**Stelle keine Vermutungen an über irgendetwas**_
+* _**Betrachte dich selbst als Teil des Chaos**_
+* _**Habe keine Angst davor, in das System einzutreten**_
+* _**Vertraue und Folge deinen ersten Instinkten**_
+* _**Es muss Tätigkeit von deiner Seite geben**_
+* _**Erwarte Synchronizität**_
 
 Diese Postulate sollen uns helfen, mit dem System in Kontakt zu kommen, es zu nutzen, mit ihm zu arbeiten (= es zu _manifestieren_). Wir müssen das System dafür nicht verstehen. Denn es ist zwar - interdimensionale gesehen - voller Sinn und Logik und überhaupt nicht geheimnisvoll, doch es ist zugleich in 3-D nicht zu verstehen - darum wirkt Gott für uns doch meist »auf geheimnisvolle Weise«.
 <br>
