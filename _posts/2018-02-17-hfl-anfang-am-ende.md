@@ -8,7 +8,7 @@ Im ersten Post zum _»Handbuch für Lichtarbeiter«_ beginne ich mit dem, was an
 
 **Kryon** gibt uns dafür in _Lektion 5_, dem praktischen Teil des Handbuches, sechs Hinweise oder Regeln oder _Postulate_:
 
-* _**Stelle keine Vermutungen an über irgendetwas**_
+* _Stelle keine Vermutungen an über irgendetwas_
 * _**Betrachte dich selbst als Teil des Chaos**_
 * _**Habe keine Angst davor, in das System einzutreten**_
 * _**Vertraue und Folge deinen ersten Instinkten**_
